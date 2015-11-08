@@ -1,0 +1,74 @@
+/* log off box: */
+border-radius: 2px;
+/* Log Off text: */
+font-family: AvenirNext-Medium;
+font-size: 13.09px;
+color: #FFFFFF;
+letter-spacing: 0.5px;
+line-height: 18px;
+/* medifications box: */
+border-radius: 2px;
+/* Medifications: */
+font-family: AvenirNext-Medium;
+font-size: 13.09px;
+color: #FFFFFF;
+letter-spacing: 0.5px;
+line-height: 18px;
+/* reminders box: */
+border-radius: 2px;
+/* Reminders: */
+font-family: AvenirNext-Medium;
+font-size: 13.09px;
+color: #FFFFFF;
+letter-spacing: 0.5px;
+line-height: 18px;
+/* family tree box: */
+border-radius: 2px;
+/* Family: */
+font-family: AvenirNext-Medium;
+font-size: 13.09px;
+color: #FFFFFF;
+letter-spacing: 0.5px;
+line-height: 18px;
+/* month box: */
+box-shadow: 0px 0px 2px 0px rgba(0,0,0,0.12), 0px 2px 2px 0px rgba(0,0,0,0.24), 0px 8px 8px 0px rgba(0,0,0,0.24);
+border-radius: 2px;
+/* month text: */
+font-family: AvenirNext-Medium;
+font-size: 13.09px;
+color: #FFFFFF;
+letter-spacing: 0.5px;
+line-height: 18px;
+/* today box: */
+border-radius: 2px;
+/* Today: */
+font-family: AvenirNext-Medium;
+font-size: 13.09px;
+color: #FFFFFF;
+letter-spacing: 0.5px;
+line-height: 18px;
+/* space box: */
+border-radius: 8px;
+/* logo box: */
+background: rgba(215,215,215,0.01);
+border-radius: 8px;
+/* Hi Alice, this is wh: */
+font-family: AvenirNext-Regular;
+font-size: 30px;
+color: #FFFFFF;
+line-height: 41px;
+/* Select Background: */
+background: #00ACC1;
+border: 1px solid #979797;
+box-shadow: 0px 1px 2px 0px rgba(0,0,0,0.20), inset 0px 2px 0px 0px #FFFFFF;
+border-radius: 3px;
+/* Triangle: */
+box-shadow: 0px 1px 0px 0px #FFFFFF;
+/* Triangle: */
+background: #4A4A4A;
+box-shadow: 0px 1px 0px 0px #FFFFFF;
+/* Add reminder: */
+font-family: AvenirNext-Regular;
+font-size: 16.63px;
+color: #FFFFFF;
+line-height: 23px;

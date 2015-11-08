@@ -1,0 +1,58 @@
+/* outline box: */
+background: rgba(255,255,255,0.28);
+border-radius: 5px;
+/* login rectangle: */
+background: #00ACC1;
+border-radius: 5px;
+/* Login: */
+font-family: AvenirNext-Bold;
+font-size: 25.65px;
+color: #FFFFFF;
+line-height: 35px;
+/* field: */
+background: #FFFFFF;
+border: 1px solid #CCCCCC;
+box-shadow: inset 0px 1px 0px 0px #ECECEC;
+border-radius: 5px;
+/* email rectangle: */
+background: #EEEEEE;
+border: 1px solid #CCCCCC;
+border-radius: 5px 5px 0px 0px;
+/* email: */
+background: #999999;
+/* Email: */
+font-family: AvenirNext-Regular;
+font-size: 25.65px;
+color: #999999;
+line-height: 35px;
+/* field: */
+background: #FFFFFF;
+border: 1px solid #CCCCCC;
+box-shadow: inset 0px 1px 0px 0px #ECECEC;
+border-radius: 5px;
+/* password rectangle: */
+background: #EEEEEE;
+border: 1px solid #CCCCCC;
+border-radius: 5px 5px 0px 0px;
+/* password icon: */
+background: #999999;
+/* Password: */
+font-family: AvenirNext-Regular;
+font-size: 25.65px;
+color: #999999;
+line-height: 35px;
+/* Hi there, please log: */
+font-family: AvenirNext-Bold;
+font-size: 30px;
+color: #FFFFFF;
+line-height: 41px;
+/* Remember me: */
+font-family: AvenirNext-Bold;
+font-size: 19.95px;
+color: #FFFFFF;
+line-height: 27px;
+/* remember me: */
+border: 1px solid #CCCCCC;
+border-radius: 2px;
+/* Check: */
+background: #666666;

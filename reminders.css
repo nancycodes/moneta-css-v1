@@ -1,0 +1,54 @@
+/* log off box: */
+border-radius: 2px;
+/* Log Off text: */
+font-family: AvenirNext-Medium;
+font-size: 13.09px;
+color: #FFFFFF;
+letter-spacing: 0.5px;
+line-height: 18px;
+/* medifications box: */
+border-radius: 2px;
+/* Medifications: */
+font-family: AvenirNext-Medium;
+font-size: 13.09px;
+color: #FFFFFF;
+letter-spacing: 0.5px;
+line-height: 18px;
+/* reminders box: */
+box-shadow: 0px 0px 2px 0px rgba(0,0,0,0.12), 0px 2px 2px 0px rgba(0,0,0,0.24), 0px 8px 8px 0px rgba(0,0,0,0.24);
+border-radius: 2px;
+/* Reminders: */
+font-family: AvenirNext-Medium;
+font-size: 13.09px;
+color: #FFFFFF;
+letter-spacing: 0.5px;
+line-height: 18px;
+/* family tree box: */
+border-radius: 2px;
+/* Family: */
+font-family: AvenirNext-Medium;
+font-size: 13.09px;
+color: #FFFFFF;
+letter-spacing: 0.5px;
+line-height: 18px;
+/* month box: */
+border-radius: 2px;
+/* month text: */
+font-family: AvenirNext-Medium;
+font-size: 13.09px;
+color: #FFFFFF;
+letter-spacing: 0.5px;
+line-height: 18px;
+/* today box: */
+border-radius: 2px;
+/* Today: */
+font-family: AvenirNext-Medium;
+font-size: 13.09px;
+color: #FFFFFF;
+letter-spacing: 0.5px;
+line-height: 18px;
+/* space box: */
+border-radius: 8px;
+/* logo box: */
+background: rgba(215,215,215,0.01);
+border-radius: 8px;

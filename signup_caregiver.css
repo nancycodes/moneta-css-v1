@@ -1,0 +1,80 @@
+/* Welcome, let’s get s: */
+font-family: AvenirNext-Bold;
+font-size: 26px;
+color: #FFFFFF;
+line-height: 36px;
+/* finish rectangle: */
+background: #00ACC1;
+border-radius: 5px;
+/* Finish: */
+font-family: AvenirNext-Bold;
+font-size: 25.65px;
+color: #FFFFFF;
+line-height: 32px;
+/* outlne box: */
+background: rgba(255,255,255,0.28);
+border-radius: 5px;
+/* field: */
+background: #FFFFFF;
+border: 1px solid #CCCCCC;
+box-shadow: inset 0px 1px 0px 0px #ECECEC;
+border-radius: 5px;
+/* icon rectangle: */
+background: #EEEEEE;
+border: 1px solid #CCCCCC;
+border-radius: 5px 5px 0px 0px;
+/* Password: */
+font-family: AvenirNext-Regular;
+font-size: 26.8px;
+color: #999999;
+line-height: 37px;
+/* password icon: */
+background: #999999;
+/* field: */
+background: #FFFFFF;
+border: 1px solid #CCCCCC;
+box-shadow: inset 0px 1px 0px 0px #ECECEC;
+border-radius: 5px;
+/* icon rectangle: */
+background: #EEEEEE;
+border: 1px solid #CCCCCC;
+border-radius: 5px 5px 0px 0px;
+/* Email: */
+font-family: AvenirNext-Regular;
+font-size: 26.8px;
+color: #999999;
+line-height: 37px;
+/* email icon: */
+background: #999999;
+/* field: */
+background: #FFFFFF;
+border: 1px solid #CCCCCC;
+box-shadow: inset 0px 1px 0px 0px #ECECEC;
+border-radius: 5px;
+/* icon rectangle: */
+background: #EEEEEE;
+border: 1px solid #CCCCCC;
+border-radius: 5px 5px 0px 0px;
+/* Last Name: */
+font-family: AvenirNext-Regular;
+font-size: 26.8px;
+color: #999999;
+line-height: 37px;
+/* person icon: */
+background: #999999;
+/* field: */
+background: #FFFFFF;
+border: 1px solid #CCCCCC;
+box-shadow: inset 0px 1px 0px 0px #ECECEC;
+border-radius: 5px;
+/* icon rectangle: */
+background: #EEEEEE;
+border: 1px solid #CCCCCC;
+border-radius: 5px 5px 0px 0px;
+/* First Name: */
+font-family: AvenirNext-Regular;
+font-size: 26.8px;
+color: #999999;
+line-height: 37px;
+/* person icon: */
+background: #999999;

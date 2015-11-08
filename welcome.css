@@ -1,0 +1,45 @@
+/* Moneta: */
+font-family: AvenirNext-Regular;
+font-size: 144px;
+color: #FFFFFF;
+line-height: 197px;
+/* welcome screen button: */
+background: #00ACC1;
+box-shadow: 0px 0px 2px 0px rgba(0,0,0,0.12), 0px 2px 2px 0px rgba(0,0,0,0.24);
+border-radius: 2px;
+/* Caregiver Sign Up: */
+font-family: Roboto-Bold;
+font-size: 14px;
+color: #FFFFFF;
+letter-spacing: 0.34px;
+line-height: 16px;
+/* welcome screen button: */
+background: #00ACC1;
+box-shadow: 0px 0px 2px 0px rgba(0,0,0,0.12), 0px 2px 2px 0px rgba(0,0,0,0.24);
+border-radius: 2px;
+/* Caregiver Log In: */
+font-family: Roboto-Bold;
+font-size: 14px;
+color: #FFFFFF;
+letter-spacing: 0.34px;
+line-height: 16px;
+/* welcome screen button: */
+background: #00ACC1;
+box-shadow: 0px 0px 2px 0px rgba(0,0,0,0.12), 0px 2px 2px 0px rgba(0,0,0,0.24);
+border-radius: 2px;
+/* Sign Up: */
+font-family: AvenirNext-Bold;
+font-size: 20.4px;
+color: #FFFFFF;
+letter-spacing: 0.5px;
+line-height: 27px;
+/* welcome screen button: */
+background: #00ACC1;
+box-shadow: 0px 0px 2px 0px rgba(0,0,0,0.12), 0px 2px 2px 0px rgba(0,0,0,0.24);
+border-radius: 2px;
+/* Log In: */
+font-family: AvenirNext-Bold;
+font-size: 20.4px;
+color: #FFFFFF;
+letter-spacing: 0.5px;
+line-height: 27px;
